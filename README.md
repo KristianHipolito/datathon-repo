@@ -5,7 +5,7 @@ https://data.texas.gov/api/v3/views/8kc5-95uk/query.json
 https://services.arcgis.com/g1fRTDLeMgspWrYp/arcgis/rest/services/StormInlets/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
 
 
-Keep from this notebook
+Suggested changes from our first drafted notebook:
 The OpenAI-style client, server address, key and model name (now also overridable by environment variable).
 The overall flow: load metadata, match image files, test one image, batch with checkpoints, StormInlets download, spatial step.
 The image-to-base64 helper, the JSON parser and the file-matching logic.
