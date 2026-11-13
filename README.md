@@ -1,7 +1,8 @@
-# datathon-repo
+# Water Boys Datathon Repository: Drainage objects & flooding predictions
 
-# https://data.texas.gov/api/v3/views/8kc5-95uk/query.json
-# https://services.arcgis.com/g1fRTDLeMgspWrYp/arcgis/rest/services/StormInlets/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
+# Our API datasets:
+https://data.texas.gov/api/v3/views/8kc5-95uk/query.json
+https://services.arcgis.com/g1fRTDLeMgspWrYp/arcgis/rest/services/StormInlets/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
 
 
 Keep from this notebook
